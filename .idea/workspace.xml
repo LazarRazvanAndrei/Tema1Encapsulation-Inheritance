@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c48b7ca-f377-47cb-a384-a514075812eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tema1LRA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tema1LRA/Animal/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tema1LRA/Animal/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tema1LRA/Animal/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tema1LRA/Encapsulation/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tema1LRA/Encapsulation/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,6 +33,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="3295" />
+          <entry key="PLAIN_TEXT" value="149" />
         </counts>
       </usages-collector>
     </session>
@@ -163,7 +149,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="gett&#9;PSI&#9;JAVA://com.sun.javafx.fxml.builder.ProxyBuilder.Getter" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547107093532" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547108072608" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../01052019_Project/src/ZooGarden" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -239,6 +225,14 @@
       <option name="presentableId" value="Default" />
       <updated>1546945189725</updated>
     </task>
+    <task id="LOCAL-00001" summary="Asta am reusit sa fac pana acum. E o nebuloasa totala in ceea ce priveste tema. O sa ma mai uit azi si maine ... sper sa pricep cu ce se mananca.">
+      <created>1547107580237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547107580237</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -305,6 +299,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Asta am reusit sa fac pana acum. E o nebuloasa totala in ceea ce priveste tema. O sa ma mai uit azi si maine ... sper sa pricep cu ce se mananca." />
+    <option name="LAST_COMMIT_MESSAGE" value="Asta am reusit sa fac pana acum. E o nebuloasa totala in ceea ce priveste tema. O sa ma mai uit azi si maine ... sper sa pricep cu ce se mananca." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Tema1LRA.iml">
