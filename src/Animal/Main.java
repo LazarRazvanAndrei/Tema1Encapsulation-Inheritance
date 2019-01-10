@@ -8,6 +8,9 @@ public class Main {
 
         Animal cat = new Animal();
 
+        Animal dog3 = new Dog(5, "verde");
+
+
 
         Dog dog1 = new Dog(5,"brown" );
         Dog dog2 = new Dog(5,"gray" );
